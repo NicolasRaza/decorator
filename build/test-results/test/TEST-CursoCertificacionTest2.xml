@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CursoCertificacionTest2" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-26T19:54:59" hostname="DESKTOP-ND8LKSN" time="0.851">
+  <properties/>
+  <testcase name="El ganador recibe un mail" classname="CursoCertificacionTest2" time="0.851"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
